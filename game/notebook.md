@@ -15,5 +15,6 @@
 Blacksmith was in the gymnasium
 Antique compass in the science lab
 The Police Officer was in the archives
+The playground was where the crime happened.
 
 Location of the crime is still unknown - the room must have been empty when it happened...

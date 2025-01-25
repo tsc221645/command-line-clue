@@ -7,7 +7,7 @@
 
 ## Weapons
 - [x] Antique Compass
-- [ ] Letter Opener
+- [x] Letter Opener
 - [ ] Old Key
 
 ## Notes
@@ -16,5 +16,6 @@ Blacksmith was in the gymnasium
 Antique compass in the science lab
 The Police Officer was in the archives
 The playground was where the crime happened.
+Found the Leter Opener in the houses
 
 Location of the crime is still unknown - the room must have been empty when it happened...

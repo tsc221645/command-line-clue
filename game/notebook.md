@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Gardener
 - [ ] The Police Officer
-- [ ] The Blacksmith
+- [x] The Blacksmith
 
 ## Weapons
 - [x] Antique Compass
